@@ -1,33 +1,29 @@
 @font-face {
-    font-family: 'Roboto';
-    src: url('../fonts/Roboto-Bold.eot');
-    src: url('../fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Roboto-Bold.woff') format('woff'),
-    url('../fonts/Roboto-Bold.ttf') format('truetype');
-    font-weight: 700;
+    font-family: 'Museo Sans 300' sans-serif;
+    src: url('../fonts/museosans/MuseoSansCyrl-300.eot');
+    src: url('../fonts/museosans/MuseoSansCyrl-300.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/museosans/MuseoSansCyrl-300.woff') format('woff'),
+    url('../fonts/museosans/MuseoSansCyrl-300.ttf') format('truetype');
+    font-weight: normal;
     font-style: normal;
-    }
-
+}
 
 @font-face {
-    font-family: 'Roboto';
-    src: url('../fonts//Roboto-Regular.eot');
-    src: url('../fonts//Roboto-Regular.eot?#iefix') format('embedded-opentype'),
-    url('../fonts//Roboto-Regular.woff') format('woff'),
-    url('../fonts//Roboto-Regular.ttf') format('truetype');
-    font-weight: 400;
+    font-family: 'Museo Sans 500' sans-serif;
+    src: url('../fonts/museosans/MuseoSansCyrl-500.eot');
+    src: url('../fonts/museosans/MuseoSansCyrl-500.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/museosans/MuseoSansCyrl-500.woff') format('woff'),
+    url('../fonts/museosans/MuseoSansCyrl-500.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Museo Sans 700' sans-serif;
+    src: url('../fonts/museosans/MuseoSansCyrl-700.eot');
+    src: url('../fonts/museosans/MuseoSansCyrl-700.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/museosans/MuseoSansCyrl-700.woff') format('woff'),
+    url('../fonts/museosans/MuseoSansCyrl-700.ttf') format('truetype');
+    font-weight: normal;
     font-style: normal;
     }
     
-
-@font-face {
-    font-family: 'Roboto';
-    src: url('../fonts/Roboto-Light.eot');
-    src: url('../fonts/Roboto-Light.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Roboto-Light.woff') format('woff'),
-    url('../fonts/Roboto-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-    }
-
-
